@@ -1,7 +1,7 @@
 const Header = () => {
     return (
         <header className='header'>
-            <img src='https://www.freelogodesign.org/Content/img/logo-colors-meanings/logos-oranges/logo-fld04.svg' />
+            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_NIKE.svg/1280px-Logo_NIKE.svg.png' />
         </header>
     );
 }
