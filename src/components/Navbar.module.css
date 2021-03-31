@@ -8,6 +8,10 @@
     color: white;
 }
 
+.item_link {
+    color: black;
+}
+
 .item.active {
     color: gold;
 }
