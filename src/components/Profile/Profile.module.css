@@ -4,10 +4,10 @@
     background-color: rgb(79, 110, 247);
 }
 
-.content img {
+.content .profile_head_picture img {
     width: 1000px;
 }
-
+/* 
 .item {
     color: greenyellow;
-}
+} */
